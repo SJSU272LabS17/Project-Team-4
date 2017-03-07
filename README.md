@@ -14,5 +14,10 @@ To reduce these, we propose a system that continuously monitors the surroundings
 This is done using IOT devices and Pattern Detection Algorithms to detect motion and take snapshots automatically when sudden movement occur and alert emergency contacts. 
 	
 
+Project - 3
+How engaged my employees are?
 
+Employee engagement is a property of the relationship between an organization and its employees. Engaged employee is generally fully absorbed by and enthusiastic about their work and so takes positive action to further the organization's reputation and interests.
+
+This project aims at tracking the engagement of employees by mining and analyzing employee's social media interactions such as tweets, posts and generating score from the vocabulary used in those posts. 
 
